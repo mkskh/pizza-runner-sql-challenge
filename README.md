@@ -1,6 +1,8 @@
 # pizza-runner-sql-challenge
 
-A. Pizza Metrics
+## Questions
+
+### A. Pizza Metrics
 
 How many pizzas were ordered?
 
@@ -23,7 +25,7 @@ What was the total volume of pizzas ordered for each hour of the day?
 What was the volume of orders for each day of the week?
 
 
-B. Runner and Customer Experience
+### B. Runner and Customer Experience
 
 How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
 
@@ -40,7 +42,7 @@ What was the average speed for each runner for each delivery and do you notice a
 What is the successful delivery percentage for each runner?
 
 
-C. Ingredient Optimisation
+### C. Ingredient Optimisation
 
 What are the standard ingredients for each pizza?
 
@@ -56,6 +58,6 @@ Meat Lovers - Extra Bacon
 Meat Lovers - Exclude Cheese, Bacon - Extra Mushroom, Peppers
 
 
-D. Pricing and Ratings
+### D. Pricing and Ratings
 
 If a Meat Lovers pizza costs $12 and Vegetarian costs $10 and there were no charges for changes - how much money has Pizza Runner made so far if there are no delivery fees?
